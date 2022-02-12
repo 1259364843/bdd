@@ -1,5 +1,8 @@
 #bingdundun {
-  position: relative;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  /* position: relative; */
   width: 400px;
   height: 400px;
 }
